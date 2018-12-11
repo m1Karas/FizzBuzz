@@ -1,0 +1,4 @@
+﻿  Main.cpp
+c:\users\michal\documents\visual studio 2017\projects\fizzbuzz\fizzbuzz\main.cpp(6): warning C4552: '>=': operator has no effect; expected operator with side-effect
+  FizzBuzz.vcxproj -> c:\users\michal\documents\visual studio 2017\Projects\FizzBuzz\Debug\FizzBuzz.exe
+  FizzBuzz.vcxproj -> c:\users\michal\documents\visual studio 2017\Projects\FizzBuzz\Debug\FizzBuzz.pdb (Partial PDB)
